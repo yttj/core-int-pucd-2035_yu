@@ -12,15 +12,15 @@
    ========================================================================== */
 
    html {
-    color: #222;
+    color: #fff;
     font-size: 1em;
     line-height: 1.4;
     padding:1.5rem;
-    background-color: #fff;
+    background-color: #222;
   }
   
   main {
-    width: 80vw;
+    width: 90vw;
     margin: 0 auto;
     display:grid;
     grid-template-columns: 1fr 1fr;
