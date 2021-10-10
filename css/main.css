@@ -87,14 +87,14 @@ h6 {
 
 p{
   font-family: 'Anton', sans-serif;
-  font-size: 2.25rem;
+  font-size: 5rem;
   line-height: 1.5;
   margin-bottom:2rem;
   color:var(--body-text-color);
 }
 
 .pull-quote {
-  font-size: 2.25rem;
+  font-size: 5rem;
   font-family: 'Anton', sans-serif;
   font-style: italic;
   font-weight:400;  
